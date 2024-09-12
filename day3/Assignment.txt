@@ -1,0 +1,12 @@
+== equality check
+=== datatype and equality check
+
+**Assignment Hoisting
+
+
+Operator
+Binary
+uniary
+ternery
+
+conditional statement
